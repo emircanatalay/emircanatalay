@@ -1,4 +1,8 @@
-<h1 align="center">Hi 👋, I'm Emircan ATALAY</h1>
+<h1 align="center"><div align="center">
+ <a href="https://github.com/CagatayAkkas">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=%f0%9f%91%8b+Emircan+ATALAY+%f0%9f%93%8a;" alt="Typing SVG" />
+ </a>
+</div></h1>
 <h3 align="center">I am a student at Hacettepe University Department of Statistics</h3>
 
 - 🌱 I’m currently learning **Statistics, Data Analysis, Machine Learning...**
@@ -10,7 +14,15 @@
 <a href="https://linkedin.com/in/emircanatalay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emircanatalay" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
-</a> <a href="https://www.ibm.com/products/spss-statistics" target="_blank" rel="noreferrer"> <img src="https://play-lh.googleusercontent.com/EuyAwFXF83chPF0Wovg2GlCU21aj9mj9IsFuyQN0js5WN-Ovqb5ALQbpv4Ogz1vwmumY" alt="spss" width="40" height="40"/> </a> <a href="https://https://www.r-project.org/" target="_blank" rel="noreferrer"> <img src="https://www.r-project.org/Rlogo.png" alt="rprogramming" width="40" height="40"/> </a> <a href="https://www.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://static.vecteezy.com/system/resources/previews/014/018/577/non_2x/ms-office-logo-on-transparent-background-free-vector.jpg" width="40" height="40"/> </p>
+# 💻 Languages and Tools:
+![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![RStudio](https://img.shields.io/badge/RStudio-4285F4?style=for-the-badge&logo=rstudio&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
+
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
